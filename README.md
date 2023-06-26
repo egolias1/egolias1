@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a highly-motivated, aspiring data scientist with a strong desire to solve new problems, search for meaningful insights in complex datasets, develop innovative methods for the analysis of data, and construct insightful representations of data.
+I am a highly-motivated theoretical physics PhD graduate interested in data science and quantitative research with a strong desire to solve new problems, search for meaningful insights in complex datasets, develop innovative methods for the analysis of data, and construct insightful representations of data.
 
-I recently completed my PhD in theoretical particle physics at Case Western Reserve University in Cleveland, Ohio where I gained 5+ years of experience in teaching and mentoring and lead both independent and collaborative projects.
+I recently graduated with a PhD in theoretical particle physics from Case Western Reserve University (CWRU) in Cleveland, Ohio where I worked with Pavel Fileviez Perez in the Particle Astrophysics Theory Group on phenomenological and cosmological aspects of theories for physics beyond the Standard Model. Before coming to CWRU, I graduated from Kent State University with a BS in Physics and a BA in Mathematics with a Minor in Italian Language and Culture.
 
 <!--
 **egolias1/egolias1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
